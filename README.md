@@ -14,6 +14,9 @@ A command-line script to access Pinboard. Eventually I want to get this into the
 ##Acknowledgements
 Uses code from the wonderful [Pinboard gem](https://github.com/ryw/pinboard).
 
+##Major Long-Term To-do
+Package into a gem like the original [Pinboard gem](https://github.com/ryw/pinboard).
+
 ##License
 Code is Licensed under the MIT License
 
