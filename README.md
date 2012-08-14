@@ -6,13 +6,18 @@ CLI script for accessing Pinboard
 ##Introduction
 A command-line script to access Pinboard. Eventually I want to get this into the [holman/boom](https://github.com/holman/boom) gem :) (well, at least my fork of it). Really need to keep track of my favorite gifs on Pinboard too, and this seems like a good way of achieving it.
 
-##Ack
+##Install/Use
+	$ gem install highline
+	$ wget https://raw.github.com/hardikr/pinboard/master/pinboard.rb
+	$ ruby pinboard.rb
+	
+##Acknowledgements
 Uses code from the wonderful [Pinboard gem](https://github.com/ryw/pinboard).
 
 ##License
 Code is Licensed under the MIT License
 
-	Copyright (c) 2011 Ryan Walker, Hardik Ruparel
+	Copyright (c) 2011 Hardik Ruparel, Ryan Walker
 
 	Permission is hereby granted, free of charge, to any person obtaining
 	a copy of this software and associated documentation files (the
